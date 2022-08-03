@@ -9,6 +9,23 @@
 .item{
  padding: 1rem;
  border: 1px solid black;
+ 
+}
+.item1{
+ background-color: aqua;
+ opacity: .5;
+}
+.item2{
+ background-color: beige;
+}
+.item3{
+ background-color: rgb(175, 175, 241);
+}
+.item4{
+ background-color: rgb(222, 134, 134);
+}
+.item5{
+ background-color: rgb(176, 221, 132);
 }
 
 
