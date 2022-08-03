@@ -1,0 +1,19 @@
+#container{
+ padding: 5rem 10rem 5rem 10rem;
+}
+.container>div{
+ margin-top: 1rem;
+ cursor: pointer;
+ 
+}
+.item{
+ padding: 1rem;
+ border: 1px solid black;
+}
+
+
+
+.dragging{
+ background-color: gray;
+ opacity: .5;
+}
